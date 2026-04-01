@@ -22,8 +22,10 @@ If you use coding assistants to build projects, they install libraries on your b
 | 6 | **Known vulnerabilities** | Do any current dependencies have disclosed CVEs? |
 
 ## Usage
+Run the diagnostic from your project's root directory.
 
 ### Node / npm
+Copy the quick-run block from [CHECKS.md](CHECKS.md#node--npm-project) and paste it into your terminal.
 
-```bash
-curl -sL https://raw.githubusercontent.com/farandclose/dependency-diagnostic/main/diagnostic-node.sh | bash
+### Python
+Copy the quick-run block from [CHECKS.md](CHECKS.md#python-project) and paste it into your terminal.
