@@ -2,7 +2,7 @@
 
 A simple security check for Node and Python projects. Looks at how your dependencies are configured and flags common supply chain attack exposures.
 
-No tools to install. Just run the script or paste the commands into your terminal.
+No tools to install. Just paste the commands into your terminal
 
 ## Why this exists
 
